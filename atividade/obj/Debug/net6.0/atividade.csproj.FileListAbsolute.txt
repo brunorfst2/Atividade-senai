@@ -1,0 +1,15 @@
+C:\Users\Bruno\Desktop\_Senai\atividade\bin\Debug\net6.0\atividade.exe
+C:\Users\Bruno\Desktop\_Senai\atividade\bin\Debug\net6.0\atividade.deps.json
+C:\Users\Bruno\Desktop\_Senai\atividade\bin\Debug\net6.0\atividade.runtimeconfig.json
+C:\Users\Bruno\Desktop\_Senai\atividade\bin\Debug\net6.0\atividade.dll
+C:\Users\Bruno\Desktop\_Senai\atividade\bin\Debug\net6.0\atividade.pdb
+C:\Users\Bruno\Desktop\_Senai\atividade\obj\Debug\net6.0\atividade.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\_Senai\atividade\obj\Debug\net6.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\_Senai\atividade\obj\Debug\net6.0\atividade.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\_Senai\atividade\obj\Debug\net6.0\atividade.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\_Senai\atividade\obj\Debug\net6.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\_Senai\atividade\obj\Debug\net6.0\atividade.dll
+C:\Users\Bruno\Desktop\_Senai\atividade\obj\Debug\net6.0\refint\atividade.dll
+C:\Users\Bruno\Desktop\_Senai\atividade\obj\Debug\net6.0\atividade.pdb
+C:\Users\Bruno\Desktop\_Senai\atividade\obj\Debug\net6.0\atividade.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\_Senai\atividade\obj\Debug\net6.0\ref\atividade.dll
